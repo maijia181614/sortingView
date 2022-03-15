@@ -4,7 +4,7 @@
 
 基于python的排序算法可视化，目前支持冒泡排序、堆排序、归并排序
 
-python based sorting algorithm visualization, currently supports bubble sort, heap sort, merge sort
+Python based sorting algorithm visualization, currently supports bubble sort, heap sort, merge sort
 
 
 ### 运行
